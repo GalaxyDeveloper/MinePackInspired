@@ -1,0 +1,2 @@
+# MinePackInspired
+Main MinePack Plugin
